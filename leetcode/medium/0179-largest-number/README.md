@@ -36,9 +36,9 @@ Output: "9534330"
 ## Solution
 
 **Language:** C++  
-**Runtime:** 0 ms (beats 100.00%)  
-**Memory:** 17.1 MB (beats 55.37%)  
-**Submitted:** 2026-07-20T17:44:37.874Z  
+**Runtime:** 8 ms (beats 11.03%)  
+**Memory:** 17 MB (beats 55.26%)  
+**Submitted:** 2026-07-21T16:55:27.424Z  
 
 ```cpp
 class Solution {
