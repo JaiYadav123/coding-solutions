@@ -52,9 +52,9 @@ The index where nums[i] == 5 is 4.
 ## Solution
 
 **Language:** C++  
-**Runtime:** 0 ms  
-**Memory:** 8.2 MB  
-**Submitted:** 2026-10-19T12:57:10.662Z  
+**Runtime:** 0 ms (beats 100.00%)  
+**Memory:** 15.2 MB (beats 52.00%)  
+**Submitted:** 2026-10-19T12:57:17.503Z  
 
 ```cpp
 class Solution {
