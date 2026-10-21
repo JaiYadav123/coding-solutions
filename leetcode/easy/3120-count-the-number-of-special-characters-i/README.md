@@ -50,9 +50,9 @@ The only special character in `word` is `'b'`.
 ## Solution
 
 **Language:** C++  
-**Runtime:** 4 ms (beats 9.89%)  
-**Memory:** 9.7 MB (beats 11.91%)  
-**Submitted:** 2026-10-21T16:54:48.592Z  
+**Runtime:** 6 ms (beats 4.27%)  
+**Memory:** 9.8 MB (beats 9.59%)  
+**Submitted:** 2026-10-21T16:55:15.222Z  
 
 ```cpp
 class Solution {
